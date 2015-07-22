@@ -1,4 +1,6 @@
 # Python_Sorting_Algorithms
-Some Sorting algorithm implementations in Python
+Sorting algorithm implementations in python
+
+
 
 
